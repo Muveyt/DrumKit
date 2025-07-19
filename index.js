@@ -54,7 +54,7 @@ function pressedSound(key){
             kick.play();
             break;
         default:
-            console.log(buttonInnerHTML);  
+            console.log(key);  
             break;
     }
 }
